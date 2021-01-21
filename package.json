@@ -9,10 +9,10 @@
   "author": "Jon Espen Kvisler <jonespen@gmail.com> (https://github.com/jonespen)",
   "license": "MIT",
   "dependencies": {
-    "kss": "^3.0.0 || ^3.0.0-beta.14"
+    "kss": "^3.0. || ^3.0.0-beta.25"
   },
   "peerDependencies": {
-    "webpack": "3 || 4"
+    "webpack": "5"
   },
   "repository": {
     "type": "git",
